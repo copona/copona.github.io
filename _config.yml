@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Copona store
+theme:        jekyll-theme-cayman
+tagline:      Sweet ecommerce based on Opencart
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Copona
+  url:        http://copona.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
